@@ -172,7 +172,6 @@ This project is developed for educational and academic purposes.
 
 <img width="940" height="456" alt="image" src="https://github.com/user-attachments/assets/daff9bfc-8e04-4291-91b9-4d69d7fa72c6" />
 <img width="1822" height="727" alt="image" src="https://github.com/user-attachments/assets/513f3b25-4113-4b0e-adcb-c1a869ac961b" />
-<img width="1861" height="720" alt="image" src="https://github.com/user-attachments/assets/7090ccc6-ca66-4c63-b8ba-060305929071" />
 <img width="1690" height="862" alt="image" src="https://github.com/user-attachments/assets/02545dc7-a513-415b-80dc-ffabb1d57c51" />
 <img width="1882" height="855" alt="image" src="https://github.com/user-attachments/assets/2d2cc3da-5c9c-4956-b917-2a1e8ea1c10f" />
 <img width="1870" height="803" alt="image" src="https://github.com/user-attachments/assets/4bf96bd5-a0e0-48b9-8bf5-0e5f64cec1dd" />
